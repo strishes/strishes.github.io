@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://strishes.github.io/sitemap.html.gz
+Sitemap: https://strishes.github.io/app/sitemap.html.gz
+Sitemap: https://strishes.github.io/assets/sitemap.html.gz
+Sitemap: https://strishes.github.io/css/sitemap.html.gz
+Sitemap: https://strishes.github.io/includes/sitemap.html.gz
+Sitemap: https://strishes.github.io/item/sitemap.html.gz
+Sitemap: https://strishes.github.io/src/sitemap.html.gz
